@@ -1,4 +1,5 @@
 # AdePlayer
+windows v1.0 https://github.com/chygfm/AdePlayer/releases/download/1.0/AdePlayer1.0.zip
 Analyze-Download-Play-Extract videos/audios
 Adeplayer winv1.0, It's Free，according to the analysis of websites by you-get, download the media files of  mainstream websites with aria2,and you can play and enjoy it,then convert different formats and extract the audio file. 
 More details http://t.cn/A6ZUj2VP
