@@ -20,7 +20,7 @@ Supported Sites:
 
 YouTube,Twitter,VK,Vine,Vimeo,Veoh,Tumblr,TED,SoundCloud,SHOWROOM,Pinterest,MTV81,Mixcloud,Metacafe,Magisto,Khan Academy,Internet Archive,Instagram,InfoQ,Imgur,Heavy Music Archive,Freesound,Flickr,FC2 Video,Facebook,eHow,Dailymotion,Coub,CBS,Bandcamp,AliveThai,interest.me,755,ナナゴーゴー,niconico,ニコニコ動画
 
- 
+ ![Image text](https://github.com/chygfm/AdePlayer/blob/master/AdePlayer-%5BAnalyze-Download-Play-Extract%20media%20files%5D.gif)
 
 AdePlayer win1.0版本，使用免费，根据you-get分析网址内容获得真实地址，使用aria2下载各主流网站的媒体文件，可播放欣赏，然后转换格式，提取音频。
 更多详情http://t.cn/A6ZUj2VP
